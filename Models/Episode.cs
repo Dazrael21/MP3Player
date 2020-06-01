@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Big_Finish_Player.Models
+namespace MP3_Player.Models
 {
     public class Episode
     {

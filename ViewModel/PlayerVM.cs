@@ -1,4 +1,4 @@
-﻿using Big_Finish_Player.Models;
+﻿using MP3_Player.Models;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
@@ -8,13 +8,13 @@ using System.IO;
 using System.ComponentModel;
 using System.Collections.ObjectModel;
 
-using static Big_Finish_Player.Funcs.ErrorLogging;
-using static Big_Finish_Player.Funcs.DiskIO;
+using static MP3_Player.Funcs.ErrorLogging;
+using static MP3_Player.Funcs.DiskIO;
 using System.Windows.Input;
 using Microsoft.VisualBasic;
 using System.Windows.Media;
 
-namespace Big_Finish_Player.ViewModel
+namespace MP3_Player.ViewModel
 {
     public class PlayerVM : ViewModelBase
     {

@@ -1,13 +1,13 @@
-﻿using Big_Finish_Player.ViewModel;
+﻿using MP3_Player.ViewModel;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Text;
 
-using static Big_Finish_Player.Funcs.DiskIO;
+using static MP3_Player.Funcs.DiskIO;
 
-namespace Big_Finish_Player.Models
+namespace MP3_Player.Models
 {
     public class Player
     {

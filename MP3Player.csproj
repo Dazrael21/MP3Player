@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Big_Finish_Player</RootNamespace>
+    <RootNamespace>MP3_Player</RootNamespace>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 

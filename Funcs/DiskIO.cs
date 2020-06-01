@@ -1,4 +1,4 @@
-﻿using Big_Finish_Player.Models;
+﻿using MP3_Player.Models;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -6,7 +6,7 @@ using System.IO;
 using System.Text;
 using System.Windows.Automation.Peers;
 
-namespace Big_Finish_Player.Funcs
+namespace MP3_Player.Funcs
 {
     public static class DiskIO
     {

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Big_Finish_Player
+namespace MP3_Player
 {
     /// <summary>
     /// Interaction logic for App.xaml

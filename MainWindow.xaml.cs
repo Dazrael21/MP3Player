@@ -1,4 +1,4 @@
-﻿using Big_Finish_Player.ViewModel;
+﻿using MP3_Player.ViewModel;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
@@ -17,7 +17,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Big_Finish_Player
+namespace MP3_Player
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

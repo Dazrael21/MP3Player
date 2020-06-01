@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Big_Finish_Player.Funcs
+namespace MP3_Player.Funcs
 {
     public static class ErrorLogging
     {
